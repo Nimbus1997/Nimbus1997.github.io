@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Made a home page!
+Made a home page
