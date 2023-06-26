@@ -7,11 +7,13 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: ellen2.jpg
-  image_circular: true # crops the image to make it circular
+  #image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
+  
   address: >
     <p>321, Science Building II</p>
     <p>123 77 Cheongam-Ro, Nam-Gu, Pohang</p>
-    <p>Your Gyeongsangbuk-do, Koreaaa</p>
+    <p>Your Gyeongsangbuk-do, Korea</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
