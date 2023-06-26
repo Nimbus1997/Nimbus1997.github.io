@@ -11,7 +11,7 @@ profile:
   address: >
     <p>321, Science Building II</p>
     <p>123 77 Cheongam-Ro, Nam-Gu, Pohang</p>
-    <p>Your Gyeongsangbuk-do, Korea</p>
+    <p>Your Gyeongsangbuk-do, Koreaaa</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
