@@ -11,22 +11,24 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S.
-      institution: Pohang University of Science and Technology, Pohang, Korea
+    - title: M.S. Artificial Intelligence
+      institution: Pohang University of Science and Technology, Pohang, Republic of Korea
       year: 2023
       description:
-        - Description 1.
+        - GPA: 4.05 / 4.3
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            
+    - title: B.S. Mechanical and Biomedical Engineering
+      institution: Ewha Womans University,  Seoul, Republic of Korea
+      year: 2021
       description:
-        - Description 1.
+        - Major GPA: 4.19 / 4.3, Overall GPA: 3.93 / 4.3
         - Description 2.
+####
 
 - title: Experience
   type: time_table
